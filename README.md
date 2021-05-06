@@ -1,5 +1,9 @@
 # THE NEXT NOVEMBER TOURNAMENT SCOREBOARD / BACKEND
 
+**Note**: This repository is no longer updated, the development was transferred to [tnnt-devteam/tnnt-backend](https://github.com/tnnt-devteam/tnnt-backend).
+
+-----
+
 Back-end part of the /dev/null/nethack replacement
 tournament. Work in progress.
 
